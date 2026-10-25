@@ -1,2 +1,2 @@
-# Phishing-Website-Detection-
-Phishing Website Detection Using GAN And Random Forest Algorithm 
+# Phishing-Website-Detection
+Phishing  Website Detection Using GAN and Random Forest
